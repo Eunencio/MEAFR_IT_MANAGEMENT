@@ -1,0 +1,15 @@
+{
+    "name": "eunencio/meafr_it_management",
+    "authors": [
+        {
+            "name": "Eunencio Tovele",
+            "email": "eunencio@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    }
+}
